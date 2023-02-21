@@ -9,7 +9,7 @@ public class Calc {
     }
 
     public int sumar(){
-        return this.num1+this.num2;
+        return 0;
     }
     public int restar(){
         return this.num1-this.num2;
